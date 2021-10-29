@@ -1,4 +1,4 @@
-# CLONE ITEMS FROM ACOUNT ARCGIS TO ANOTHER ACOUNT ARCGIS ONLINE
+# Clonar items de ArcGIS online de una cuenta a otra cuenta ArcGIS online
 
 En este repositorio se muestra un ejemplo de como clonar un item de una cuenta de ArcGIS Online a otra cuenta de ArcGIS Online usando Python.
 Para esto se creó un paquete que facilita el proceso de clonación de un item. 
